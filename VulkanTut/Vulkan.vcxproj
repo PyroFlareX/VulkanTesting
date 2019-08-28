@@ -140,6 +140,10 @@
     <ClInclude Include="Engine\Util\UtilFunctions.h" />
     <ClInclude Include="Vulkan.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\frag.glsl" />
+    <None Include="Shaders\vert.glsl" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

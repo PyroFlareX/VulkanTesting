@@ -1,0 +1,12 @@
+
+*.obj
+*.pdb
+*.lastbuildstate
+*.tlog
+*.log
+*.ipdb
+*.iobj
+*.db
+*.opendb
+*.ipch
+VulkanTut/.vs/Vulkan/v15/.suo
